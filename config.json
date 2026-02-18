@@ -1,8 +1,8 @@
 {
-  "app_live": true,
+  "app_live": false,
   "latest_version_code": 1,
   "update_url": "https://t.me/Velzorix",
   "force_update": false,
   "message": "Welcome",
-  "show_message": true
+  "show_message": flase
 }
