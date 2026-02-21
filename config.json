@@ -1,8 +1,8 @@
 {
   "app_live": true,
-  "latest_version_code": 1.0.0 ,
-  "update_url": "https://t.me/Velzorix",
-  "force_update": false,
+  "latest_version_code": 2,
+  "update_url": "https://www.mediafire.com/file/goagk8qbija63ia/VZXPLAYER-.1.0.1.apk",
+  "force_update": true,
   "message": "Welcome",
   "show_message": false 
 }
